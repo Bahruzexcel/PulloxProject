@@ -6,5 +6,7 @@ public class Kakha {
 
         System.out.println("I want skiing in mountains");
 
+        System.out.println("And I want red wine :)");
+
     }
 }
