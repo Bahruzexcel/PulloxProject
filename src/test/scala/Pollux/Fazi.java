@@ -5,5 +5,6 @@ public class Fazi {
         System.out.println("Hello");
         //hi
         //bye
+        //again hi
     }
 }
